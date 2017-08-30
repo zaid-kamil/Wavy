@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bubble_size">26dp</dimen>
+    <dimen name="wave_height">65dp</dimen>
+    <dimen name="footer_height">128dp</dimen>
+</resources>
